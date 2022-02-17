@@ -1,7 +1,7 @@
 # ALX 
 ## Git PROJECT
 ### Steps
-1. Navigate to your home directory
+1. Navigate to your root directory
 
 2. Create a directory alx-pre_course
 
