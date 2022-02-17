@@ -1,0 +1,2 @@
+To pull changes from GitHub to your lical machine:
+    git pull origin [branchname]
